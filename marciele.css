@@ -17,7 +17,7 @@ body {
     align-items: center;
     flex-wrap: wrap;
     padding: 0 10%;
-    position: fixed;
+    position: relative;
     width: 100%;
 }
 
